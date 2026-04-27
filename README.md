@@ -138,10 +138,10 @@
 ```bash
 # 安装到当前项目
 mkdir -p .claude/skills
-git clone https://github.com/YOUR_USERNAME/yuelao-skill.git .claude/skills/yuelao-skill
+git clone https://github.com/RomaneeeCon/yuelao-skill.git .claude/skills/yuelao-skill
 
 # 或安装到全局
-git clone https://github.com/YOUR_USERNAME/yuelao-skill.git ~/.claude/skills/yuelao-skill
+git clone https://github.com/RomaneeeCon/yuelao-skill.git ~/.claude/skills/yuelao-skill
 ```
 
 ### OpenClaw
