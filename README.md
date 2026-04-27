@@ -147,7 +147,7 @@ git clone https://github.com/RomaneeeCon/yuelao-skill.git ~/.claude/skills/yuela
 ### OpenClaw
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yuelao-skill.git ~/.openclaw/skills/yuelao-skill
+git clone https://github.com/RomaneeeCon/yuelao-skill.git ~/.openclaw/skills/yuelao-skill
 ```
 
 零依赖。零配置。一个SKILL.md文件就是全部。
